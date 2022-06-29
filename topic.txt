@@ -1,0 +1,6 @@
+1)Minimum spanning tree
+2) shortest path algorithm
+2) topological sorting 
+4) cycle detection
+5) bridge of graph
+6) articuler point
